@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinAnalyst/FinAnalyst.iml" filepath="$PROJECT_DIR$/FinAnalyst/FinAnalyst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinAnalystSpace.iml" filepath="$PROJECT_DIR$/FinAnalystSpace.iml" />
+    </modules>
+  </component>
+</project>
+

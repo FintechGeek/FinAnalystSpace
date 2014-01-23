@@ -11,6 +11,6 @@
     <title></title>
   </head>
   <body>
-<p>Hello, we are Fintech Geek!</p>
+<p>Hello, we are Fintech Geeks!</p>
   </body>
 </html>

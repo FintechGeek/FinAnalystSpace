@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FinAnalyst/FinAnalyst.iml" filepath="$PROJECT_DIR$/FinAnalyst/FinAnalyst.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FinAnalystSpace.iml" filepath="$PROJECT_DIR$/FinAnalystSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinDataRetrivalPrototype/FinDataRetrivalPrototype.iml" filepath="$PROJECT_DIR$/FinDataRetrivalPrototype/FinDataRetrivalPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinDbSchema/FinDbSchema.iml" filepath="$PROJECT_DIR$/FinDbSchema/FinDbSchema.iml" />
     </modules>
   </component>
 </project>
